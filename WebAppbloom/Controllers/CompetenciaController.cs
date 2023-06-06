@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-public class HomeControlle:Controller
+public class CompetenciaControlle:Controller
 
     {
         public IActionResult Index()
