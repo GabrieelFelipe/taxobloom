@@ -37,7 +37,6 @@ public class CompetenciaEntityConfig : IEntityTypeConfiguration<Competencia>
                .HasColumnName("LinhaBloom")
                .HasColumnType("varchar(60)")
                .IsRequired();
-               
            
         
         

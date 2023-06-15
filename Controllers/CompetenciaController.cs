@@ -56,6 +56,8 @@ public class CompetenciaController:Controller{
       };
       return View(listaViewModel);
    }
+
+   
    
    
 

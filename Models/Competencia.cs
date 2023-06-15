@@ -6,4 +6,5 @@ public class Competencia{
     public string? ColunaBloom { get; set; }
 
     public string? LinhaBloom { get; set; }
+
 }

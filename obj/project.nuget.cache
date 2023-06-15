@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1mJWbnuuQXSiDTRgZIyal8ZthRZr5aHJWVQsVIa+dlrN6DcLxIkTASm46jfcYvPpsGG4AA61IR2POPhNZ/DzwA==",
+  "dgSpecHash": "IvFn2rhlMzSm+P5t9geYBSj7h1PDMNu4wEmsg8Q/eJhTJ7zTigDwB2rwd7tb2HqS7GLSpnFNQX8OLHrzybTiDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\WebAppBloom\\webappbloom.csproj",
+  "projectFilePath": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\webappbloom\\webappbloom.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALUNO\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ALUNO\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

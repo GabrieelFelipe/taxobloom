@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\WebAppBloom\\webappbloom.csproj": {}
+    "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\webappbloom\\webappbloom.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\WebAppBloom\\webappbloom.csproj": {
+    "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\webappbloom\\webappbloom.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\WebAppBloom\\webappbloom.csproj",
+        "projectUniqueName": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\webappbloom\\webappbloom.csproj",
         "projectName": "webappbloom",
-        "projectPath": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\WebAppBloom\\webappbloom.csproj",
+        "projectPath": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\webappbloom\\webappbloom.csproj",
         "packagesPath": "C:\\Users\\ALUNO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\WebAppBloom\\obj\\",
+        "outputPath": "C:\\Users\\ALUNO\\Desktop\\Gabriel Felipe\\TAXOBLOOM3\\webappbloom\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ALUNO\\AppData\\Roaming\\NuGet\\NuGet.Config",
